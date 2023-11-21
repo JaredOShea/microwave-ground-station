@@ -14,3 +14,8 @@ Link to our test plan: https://docs.google.com/document/d/1aySdPRfakIUfBPKXEiAwM
 Link to SRS V2: https://docs.google.com/document/d/1ttc_K4ZPnQo_21efK45WMkjvCZ_IRgyP/edit?usp=sharing&ouid=110775500335436536052&rtpof=true&sd=true
 ## SDD V2
 Link to SDD V2: https://docs.google.com/document/d/1-PTmrX8d5MVBLh_VQqjGeFHIIP64dNhV/edit?usp=sharing&ouid=110775500335436536052&rtpof=true&sd=true
+
+## SRS Final
+Link to SRS V2: https://docs.google.com/document/d/1xMSNTCBDdTpV2IaI3Kb46G2aWg1vFoLo/edit?usp=sharing&ouid=110775500335436536052&rtpof=true&sd=true
+## SDD Final
+Link to SDD V2: https://docs.google.com/document/d/13Ebcs8RqM6mUK3Tts_5pEX7YVK74deFr/edit?usp=sharing&ouid=110775500335436536052&rtpof=true&sd=true
