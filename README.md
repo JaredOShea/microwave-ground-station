@@ -13,6 +13,9 @@ Link to our final demo: https://docs.google.com/presentation/d/1x8m2Gun5lT70-iur
 ## Testing Plan
 Link to our test plan: https://docs.google.com/document/d/1fSi7Bb3OweNWcMLktDDJLQYZEG3LsFcf/edit?usp=sharing&ouid=110775500335436536052&rtpof=true&sd=true
 
+## Combined Project Engineering Notebook
+Link to our engineering notebook: https://docs.google.com/document/d/1x02sDxvX0VVRBTTMH7My4Sl8hHxdB13v/edit?usp=sharing&ouid=110775500335436536052&rtpof=true&sd=true
+
 ## SRS V2
 Link to SRS V2: https://docs.google.com/document/d/1ttc_K4ZPnQo_21efK45WMkjvCZ_IRgyP/edit?usp=sharing&ouid=110775500335436536052&rtpof=true&sd=true
 ## SDD V2
