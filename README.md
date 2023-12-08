@@ -7,6 +7,8 @@ We will design, fabricate, and demonstrate a prototype microwave ground station 
 ## Scrum Tracking With Trello
 Link to our Scrum board on Trello: [https://trello.com/b/hhRvVYH1/microwave-ground-station](https://trello.com/b/hhRvVYH1/microwave-ground-station)https://trello.com/b/hhRvVYH1/microwave-ground-station
 
+## 3 Minute Project Video
+Link to Video: https://drive.google.com/file/d/1XlXa_ux_Wt2U2XRJ-TfTkjkEOJd_EoSG/view?usp=drive_link
 ## Final Demo
 Link to our final demo: https://docs.google.com/presentation/d/1x8m2Gun5lT70-iurDCEILPk6_6JrSPMI/edit?usp=sharing&ouid=110775500335436536052&rtpof=true&sd=true
 
